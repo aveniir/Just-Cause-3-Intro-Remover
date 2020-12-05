@@ -5,7 +5,7 @@ This guide will show you, how you can skip the long unnecessary intro in Just Ca
 
 1. Download the .exe [here](https://github.com/aveniir/Just-Cause-3-Intro-Remover/releases) and start it.
 
-1. Open your JC3 directory.
+2. Open your JC3 directory.
 
 Right-click Just Cause 3 in you Steam library.
 Choose "Properties".

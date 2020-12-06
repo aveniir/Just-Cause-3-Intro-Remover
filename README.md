@@ -31,6 +31,6 @@ And if you do have any DLC's installed, add this:
 Paste the arguments line into the text box, and click "OK".
 
 And that's it!
-If you have any questions, feel free to ask me in the comments, or add me [on Steam](https://steamcommunity.com/id/aveniir/).
+If you have any questions, feel free to add me [on Steam](https://steamcommunity.com/id/aveniir/).
 
 [Steam Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=570542665)
